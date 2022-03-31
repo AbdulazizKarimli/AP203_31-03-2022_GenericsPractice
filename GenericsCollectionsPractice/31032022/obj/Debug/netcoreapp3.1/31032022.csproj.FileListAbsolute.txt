@@ -1,0 +1,14 @@
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\bin\Debug\netcoreapp3.1\31032022.exe
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\bin\Debug\netcoreapp3.1\31032022.deps.json
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\bin\Debug\netcoreapp3.1\31032022.runtimeconfig.json
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\bin\Debug\netcoreapp3.1\31032022.runtimeconfig.dev.json
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\bin\Debug\netcoreapp3.1\31032022.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\bin\Debug\netcoreapp3.1\31032022.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\obj\Debug\netcoreapp3.1\31032022.csproj.AssemblyReference.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\obj\Debug\netcoreapp3.1\31032022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\obj\Debug\netcoreapp3.1\31032022.AssemblyInfoInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\obj\Debug\netcoreapp3.1\31032022.AssemblyInfo.cs
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\obj\Debug\netcoreapp3.1\31032022.csproj.CoreCompileInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\obj\Debug\netcoreapp3.1\31032022.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\obj\Debug\netcoreapp3.1\31032022.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_31-03-2022_GenericsPractice\GenericsCollectionsPractice\31032022\obj\Debug\netcoreapp3.1\31032022.genruntimeconfig.cache
